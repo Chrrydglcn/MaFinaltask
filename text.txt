@@ -1,0 +1,5 @@
+Please pick you favorite order
+[1]Pepsi (P100) 
+[2]Dr. Pepper (P120) 
+[3]Coca-cola (P95) 
+Choice:The item that you wanted does not exist
